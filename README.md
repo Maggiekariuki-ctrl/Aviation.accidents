@@ -1,13 +1,14 @@
 # Project Title
 Aviation Risk Analysis
 
-#Overview
+# Overview
+
 As part As part of its expansion  the company is entering the aviation industry. However, decision-makers lack insights into aircraft safety risks. This project analyzes aviation accident data to identify the safest aircraft models and provide data-driven recommendations for purchasing decisions.
 
  # Bussiness Understanding
  To deterime which aircraft have the lowest risk based on historical accident data.
 
- ##stakeholders
+ ## Stakeholders
  Business executives
 
  # Data analysis and understanding and analysis
@@ -33,4 +34,9 @@ Histogram
  Investment Strategy: The company should prioritize purchasing low-risk aircraft with strong safety ratings.
  Implement weather monitoring to reduce operational hazards.
 
+## Author
+Margaret Kariuki
 
+## Contact Information
+
+Instagram:_.maggliy
