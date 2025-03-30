@@ -3,7 +3,7 @@ Aviation Risk Analysis
 
 # Overview
 
-As part As part of its expansion  the company is entering the aviation industry. However, decision-makers lack insights into aircraft safety risks. This project analyzes aviation accident data to identify the safest aircraft models and provide data-driven recommendations for purchasing decisions.
+ As part of its expansion  the company is entering the aviation industry. However, decision-makers lack insights into aircraft safety risks. This project analyzes aviation accident data to identify the safest aircraft models and provide data-driven recommendations for purchasing decisions.
 
  # Bussiness Understanding
  To deterime which aircraft have the lowest risk based on historical accident data.
