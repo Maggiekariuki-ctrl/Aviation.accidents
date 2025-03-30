@@ -9,7 +9,7 @@ Aviation Risk Analysis
  To deterime which aircraft have the lowest risk based on historical accident data.
 
  ## Stakeholders
- Business executives
+ The head of the aviation division
 
  # Data analysis and understanding and analysis
  Aviation Accident Dataset: Includes details about aircraft models, accident causes, fatalities, and conditions.
